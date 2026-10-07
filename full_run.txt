@@ -1,0 +1,100 @@
+PBLE 1: Smart Delivery Planning - Fractional Knapsack
+
+================ SMART DELIVERY PLANNING ================
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+==========================================================
+Enter your choice (1-7): Enter number of packages (1-100): Enter delivery capacity: 
+Package 1
+Enter package name: Enter value: Enter weight: 
+Package 2
+Enter package name: Enter value: Enter weight: 
+Package 3
+Enter package name: Enter value: Enter weight: 
+Package 4
+Enter package name: Enter value: Enter weight: 
+Package details entered successfully.
+
+================ SMART DELIVERY PLANNING ================
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+==========================================================
+Enter your choice (1-7): 
+Value/Weight ratios calculated successfully.
+ID    Name                 Ratio       
+----------------------------------------------
+1     Package 1            8.00        
+2     Package 2            3.00        
+3     Package 3            10.00       
+4     Package 4            5.00        
+
+================ SMART DELIVERY PLANNING ================
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+==========================================================
+Enter your choice (1-7): 
+Packages sorted by ratio (highest to lowest).
+ID    Name                 Ratio       
+----------------------------------------------
+3     Package 3            10.00       
+1     Package 1            8.00        
+4     Package 4            5.00        
+2     Package 2            3.00        
+
+================ SMART DELIVERY PLANNING ================
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+==========================================================
+Enter your choice (1-7): 
+Maximum value that can be carried: 113.00
+
+================ SMART DELIVERY PLANNING ================
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+==========================================================
+Enter your choice (1-7): 
+================ SELECTED PACKAGES ================
+Package 3 (Package 3): 1.00 fraction, Weight = 5.00, Value = 50.00
+Package 1 (Package 1): 1.00 fraction, Weight = 5.00, Value = 40.00
+Package 4 (Package 4): 1.00 fraction, Weight = 4.00, Value = 20.00
+Package 2 (Package 2): 0.10 fraction, Weight = 1.00, Value = 3.00
+
+Total selected weight: 15.00
+Maximum value: 113.00
+
+================ SMART DELIVERY PLANNING ================
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+==========================================================
+Enter your choice (1-7): 
+Program exited successfully.
